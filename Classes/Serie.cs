@@ -31,7 +31,8 @@ namespace Series
             retorno += "Genero: " +this.Genero + Environment.NewLine;
             retorno += "Titulo: " +this.Genero + Environment.NewLine;
             retorno += "Descrição: " +this.Genero + Environment.NewLine;
-            retorno += "Ano de inicio: " +this.Ano;
+            retorno += "Ano de inicio: " +this.Ano+ Environment.NewLine;
+            retorno += "Excluido: " + this.Excluido;
             return retorno;
         }
 
@@ -44,6 +45,12 @@ namespace Series
         {
             return this.Id;
         }
+
+        public bool RetornaExcluido()
+        {
+            return this.Excluido;
+        }
+
 
         public void Exclui()
         {

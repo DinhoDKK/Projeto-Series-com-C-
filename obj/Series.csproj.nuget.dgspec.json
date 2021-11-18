@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Campos\\Series\\Series.csproj": {}
+    "C:\\Users\\Campos\\series\\Series.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Campos\\Series\\Series.csproj": {
+    "C:\\Users\\Campos\\series\\Series.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Campos\\Series\\Series.csproj",
+        "projectUniqueName": "C:\\Users\\Campos\\series\\Series.csproj",
         "projectName": "Series",
-        "projectPath": "C:\\Users\\Campos\\Series\\Series.csproj",
+        "projectPath": "C:\\Users\\Campos\\series\\Series.csproj",
         "packagesPath": "C:\\Users\\Campos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Campos\\Series\\obj\\",
+        "outputPath": "C:\\Users\\Campos\\series\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Campos\\AppData\\Roaming\\NuGet\\NuGet.Config"
